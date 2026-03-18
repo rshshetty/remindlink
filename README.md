@@ -25,7 +25,7 @@ Currently in pre-launch testing on Google Play. Public release coming soon.
         <br/><sub><b>Share from any app</b></sub>
       </td>
       <td align="center">
-        <img src="screenshots/notification.png" width="140" alt="Set Reminder"/>
+        <img src="screenshots/schedule.png" width="140" alt="Set Reminder"/>
         <br/><sub><b>Set Reminder</b></sub>
       </td>
       <td align="center">
