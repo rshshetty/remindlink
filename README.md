@@ -21,21 +21,24 @@ Currently in pre-launch testing on Google Play. Public release coming soon.
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/share.png" width="220" alt="Share Sheet"/>
-        <br/><sub><b>Save from any app</b></sub>
+        <img src="screenshots/share.png" width="140" alt="Share Sheet"/>
+        <br/><sub><b>Share from any app</b></sub>
       </td>
       <td align="center">
-        <img src="screenshots/home.png" width="220" alt="Home Screen"/>
+        <img src="screenshots/notification.png" width="140" alt="Set Reminder"/>
+        <br/><sub><b>Set Reminder</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/home.png" width="140" alt="Home Screen"/>
         <br/><sub><b>Home Screen</b></sub>
       </td>
       <td align="center">
-        <img src="screenshots/notification.png" width="220" alt="Notification"/>
+        <img src="screenshots/notification.png" width="140" alt="Notification"/>
         <br/><sub><b>Notification Actions</b></sub>
       </td>
     </tr>
   </table>
 </div>
-
 —--
 
 ## Features
