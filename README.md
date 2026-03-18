@@ -17,11 +17,24 @@ Currently in pre-launch testing on Google Play. Public release coming soon.
 
 ## Screenshots
 
-<! — Add your screenshots here once uploaded to GitHub →
-<! — ![Share](screenshots/share.png) →
-<! — ![Set Reminder](screenshots/notification.png) →
-<! — ![Home Screen](screenshots/home.png) →
-<! — ![Notification](screenshots/notification.png) →
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/share.png" width="220" alt="Share Sheet"/>
+        <br/><sub><b>Save from any app</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/home.png" width="220" alt="Home Screen"/>
+        <br/><sub><b>Home Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/notification.png" width="220" alt="Notification"/>
+        <br/><sub><b>Notification Actions</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 —--
 
