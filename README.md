@@ -18,11 +18,12 @@ Currently in pre-launch testing on Google Play. Public release coming soon.
 ## Screenshots
 
 <! — Add your screenshots here once uploaded to GitHub →
+<! — ![Share](screenshots/share.png) →
+<! — ![Set Reminder](screenshots/notification.png) →
 <! — ![Home Screen](screenshots/home.png) →
-<! — ![Set Reminder](screenshots/reminder.png) →
 <! — ![Notification](screenshots/notification.png) →
 
-— -
+—--
 
 ## Features
 
@@ -67,7 +68,7 @@ Write on Medium
 ### Run locally
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/remindlink.git
+git clone https://github.com/rosshetty/remindlink.git
 
 # Navigate to project
 cd remindlink
