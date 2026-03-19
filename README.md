@@ -114,7 +114,7 @@ flutter build appbundle
 - [x] Pre-launch testing on Google Play
 - [ ] Google Play public release — coming soon
 - [ ] iOS release — planned
-- [ ] AI article summarisation — planned
+- [ ] AI article summarisation — planned (paid feature)
 - [ ] Cross-device sync — planned (paid feature)
 
 — -
